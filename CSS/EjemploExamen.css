@@ -1,0 +1,116 @@
+*{margin:0px;
+padding:0px;
+box-sizing:border-box;
+cursor:url(../Imagenes/cursor.cur),auto;}
+:root{background-color:lightgray;}
+#contenedor{background-image:url(../Imagenes/fondo.jpg);
+			width:900px;
+			height:1000px;
+			position:relative;
+			margin:auto;
+			border-radius:15px;}
+
+header{width:89%;
+		height:150px;
+		position:absolute;
+		top:50px;
+		left:50px}
+
+	#titulo{position:absolute;
+			top:50px;
+			left:100px;
+			width:400px;
+			height:60px;
+			font-size:45px;
+			font-family: 'Sansita Swashed', cursive;
+			color:white;}
+	#Form{position:absolute;
+			top:0px;
+			right:30px;
+			width:120px;
+			height:90px;
+			font-size:20px;
+			font-family: 'Sansita Swashed', cursive;}
+	
+	#menus{
+		background-color:#FFFFFF50;
+		width:89%;
+		height:80px;
+		position:relative;
+		top:220px;
+		left:50px;
+		border-radius:15px;
+		font-family: 'Sansita Swashed', cursive;}
+		}
+	#menus ul{
+				position:absolute;
+				top:30px;
+				margin-left:35px;
+			}
+	.prin{display:inline;
+			float:left;
+			font-size:20px;
+			padding:10px;
+			margin-top:10px;
+			margin-left:80px;}	
+	.prin:hover{background-color:black;
+				color:white;}
+	.prin ul{display:none;}
+	
+	.prin:hover ul{
+				display:list-item;
+				position:absolute;
+				top:53px;
+				list-style:none;
+				background-color:black;
+				color:white;
+				z-index:6;
+				}
+	
+	.prin ul li{border:1px solid white;}
+	.prin ul li:hover{background-color:green;
+						color:white;}
+	
+	.prin ul li a{text-decoration:none;
+					color:white;}
+	
+section{width:89%;
+	height:500px;
+	position:relative;
+	top:240px;
+	left:50px;
+	z-index:1;}
+iframe{width:89%;
+	height:500px;
+	position:absolute;
+	left:50px;
+	z-index:1;
+	border:none;
+	background-color:#FFFFFF;}
+
+footer{width:89%;
+	height:100px;
+	background-color:#FFFFFF50;
+	position:relative;
+	top:300px;
+	left:50px;
+	border-radius:15px;
+	font-size:17px;
+	font-family: 'Sansita Swashed', cursive;
+	padding-top:32px;
+	padding-left:20px;}
+	
+	#Contacto{width:500px;
+                height:70px;
+                position:absolute;
+                top:60px;
+                left:350px;}
+	#Contacto a{color:black;}
+	#Contacto a:hover{color:white;}
+	#Contacto table{border-collapse:collapse;}
+	#Contacto td{padding:5px;
+                border:1px solid black}
+	#Contacto td:hover{padding:5px;
+                    background-color:#976D00;
+					color:white;}
+	

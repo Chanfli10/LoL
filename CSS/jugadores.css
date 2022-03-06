@@ -1,0 +1,66 @@
+:root{text-align:justify;
+	background-image:url(../Imagenes/jugadoresfondo.jpg);
+	background-repeat:no repeat;
+	background-size:cover;
+	color:white;}
+div{
+	width:500px;
+	height:500px;
+	position:relative;
+	font-family: 'Sansita Swashed', cursive;
+}
+#FotoFaker{
+	width:50%;
+	height:500px;
+	position:absolute;}
+img
+	{width:250px;
+	height:250px;}
+#InfoFaker{
+	width:85%;
+	height:500px;
+	position:absolute;
+	left:250px;
+	font-size:17px;
+}#FotoxPeke{
+	width:50%;
+	height:500px;
+	position:absolute;
+}#InfoxPeke{
+	width:85%;
+	height:500px;
+	position:absolute;
+	left:250px;
+	font-size:20px;
+}#FotoPepii{
+	width:50%;
+	height:500px;
+	position:absolute;
+}#InfoPepii{
+	width:85%;
+	height:500px;
+	position:absolute;
+	left:250px;
+	font-size:18px;
+}#FotoYoya{
+	width:50%;
+	height:500px;
+	position:absolute;
+}#InfoYoya{
+	width:85%;
+	height:500px;
+	position:absolute;
+	left:250px;
+	font-size:18px;
+}#FotoPadre{
+	width:50%;
+	height:500px;
+	position:absolute;
+}#InfoPadre{
+	width:85%;
+	height:500px;
+	position:absolute;
+	left:250px;
+	font-size:20px;
+
+}

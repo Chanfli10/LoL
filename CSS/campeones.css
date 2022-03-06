@@ -1,0 +1,23 @@
+*{margin:0px;
+padding:0px;
+box-sizing:border-box;}
+
+#contenedor{background-color:#156297;
+		width:100%;
+		height:490px;}
+		
+#camp{background-color:#348ECB;
+	width:100%;
+	height:100px;}
+	
+	ul{padding-top:20px}
+	ul li {display:inline;
+		margin-left:65px;}
+	img{width:60px;
+	height:60px}				
+	
+#Frame{	width:100%;
+		height:390px;
+		z-index:6}
+		
+	

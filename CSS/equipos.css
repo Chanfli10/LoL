@@ -1,0 +1,53 @@
+#KOI{
+	background-image:url(../Imagenes/ibaipique.jpg);
+	background-repeat:no repeat;
+	background-size:cover;
+	position:center;
+	width:100%;
+	height:490px;
+	color:white;
+	font-family: 'Sansita Swashed', cursive;
+	padding-top:300px;
+	font-size:20px;}
+	.escudo img{
+		width:300px;
+		height:300px;
+		position:absolute;
+		bottom:200px;
+		left:20px;
+	}
+#G2{
+	background-image:url(../Imagenes/g2.png);
+	background-repeat:no repeat;
+	background-size:cover;
+	position:center;
+	width:100%;
+	height:490px;
+	color:white;
+	font-family: 'Sansita Swashed', cursive;
+	padding-top:400px;
+	font-size:20px;
+	position;relative;}
+	.escudog2 img{
+		width:150px;
+		height:150px;
+		position:absolute;
+		bottom:-600px;
+	}
+#Giants{
+	background-image:url(../Imagenes/giants.png);
+	background-repeat:no repeat;
+	background-size:cover;
+	position:center;
+	width:100%;
+	height:490px;
+	color:black;
+	font-family: 'Sansita Swashed', cursive;
+	font-size:20px;}
+	.escudogiants img{
+		width:150px;
+		height:150px;
+		position:absolute;
+		bottom:-600px;
+	}
+	#Giants p{padding-top:250px;}
